@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Mastering Next.js 14 for Advanced Modern Fullstack Web Development Skills",
+    "description": "Take your web development skills to the next level with our Mastering Next.js 14 course. Dive into server-side rendering, API routes, and advanced routing.",
+    "price": 49.99,
+    "image": "/images/download.jpg"
+  },
+  {
+    "id": 2,
+    "title": "React Essentials Course From Beginner to Professional Frontend Developer Guide",
+    "description": "A complete guide to building dynamic interfaces with React. Understand components, hooks, and the virtual DOM like never before. Build real-world projects and improve your problem-solving skills in modern frontend development.",
+    "price": 39.99,
+    "image": "/images/download2.png"
+  },
+  {
+    "id": 3,
+    "title": "Node.js API Masterclass Build Scalable High Performance REST Backend Systems",
+    "description": "Learn how to design and build high-performance REST APIs with Node.js and Express. Ideal for backend developers.",
+    "price": 44.99,
+    "image": "/images/download3.png"
+  },
+  {
+    "id": 4,
+    "title": "Fullstack Development with MongoDB Express and Modern Scalable Web Practices",
+    "description": "Build a complete full-stack application using MongoDB, Express, and modern best practices for scalability and performance.",
+    "price": 42.5,
+    "image": "/images/download4.png"
+  },
+  {
+    "id": 5,
+    "title": "Tailwind CSS Course Learn Responsive Modern Utility First UI Design",
+    "description": "Create stunning and responsive user interfaces effortlessly using Tailwind CSS. Learn utility-first design like a pro.",
+    "price": 29.99,
+    "image": "/images/download5.png"
+  },
+  {
+    "id": 6,
+    "title": "JavaScript Mastery The Complete Guide to Modern ES6 Advanced Techniques",
+    "description": "Go beyond the basics of JavaScript. Explore ES6+, async programming, and performance optimization for real-world apps.",
+    "price": 34.99,
+    "image": "/images/download6.png"
+  },
+  {
+    "id": 7,
+    "title": "Advanced TypeScript Patterns and Strongly Typed Architecture for Developers",
+    "description": "Master the power of TypeScript through advanced design patterns, generics, and type-safe architecture for large projects.",
+    "price": 45.0,
+    "image": "/images/download7.png"
+  },
+  {
+    "id": 8,
+    "title": "Next.js Prisma and PostgreSQL Bootcamp Build Fullstack Production Apps",
+    "description": "Build production-grade fullstack applications using Next.js, Prisma ORM, and PostgreSQL database integration step-by-step.",
+    "price": 54.99,
+    "image": "/images/download8.png"
+  }
+]
